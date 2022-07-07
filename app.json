@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "cpf_validacao",
+    "slug": "cpf_validacao",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
