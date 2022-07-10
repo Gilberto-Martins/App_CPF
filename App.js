@@ -28,6 +28,10 @@ export default function App() {
       >
       </TextInput>
 
+      <Text>
+      absdashjhagsdhga
+      </Text>
+
       <TouchableOpacity  style={styles.resposta}>
         <Text>Verificar CPF</Text>
       </TouchableOpacity>
